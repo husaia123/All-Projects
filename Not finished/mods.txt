@@ -1,0 +1,240 @@
+A Block of Charcoal	0 - Tutorial	Primitive Tech	Tiny
+AbyssalCraft Integration	1 - Bronze	Tools	Small
+AbyssalCraft	0 - Tutorial	Magic	Large
+Actually Additions	4 - Modern	Tech	Medium
+Actually Baubles	4 - Modern	Tech	Small
+Advanced Mortars		Primitive Tech	Small
+Animalium		World Modifier	Small
+Antique Atlas	0 - Tutorial	Info	Tiny
+AppleCore	0 - Tutorial	Info	Tiny
+AppleSkin	0 - Tutorial	Info	Tiny
+Applied Energistics 2	4 - Modern	Tech	Medium
+ArmoreableMobs	0 - Tutorial	World Modifier	Tiny
+Astikoor Carts	0 - Stone	Primitive Tech	Small
+Astral Sorcery	2 - Medieval	Magic	Medium
+AutoRegLib	N/A	Code Library	N/A
+Base	N/A	Code Library	N/A
+Baubles	N/A	Tools	Tiny
+Bdlib	N/A	Code Library	N/A
+Better With Addons	0 - Tutorial	Primitive Tech	Small
+BetterAdvancements	N/A	Cosmetic	Small
+BetterBuildersWands		Tools	Tiny
+BetterFoliage	N/A	Cosmetic	Small
+BetterFPS	N/A	Cosmetic	Small
+Better With Mods		Primitive Tech	Small
+BiblioCraft		Cosmetic	Small
+BloodMagic	1 - Bronze	Magic	Medium
+BNBGamingCore	N/A	Code Library	N/A
+BNBGamingLib	N/A	Code Library	N/A
+Bonsaitrees		Primitive Tech	Tiny
+Bookshelf	N/A	Code Library	N/A
+Buildcraft Builders		Tech	Small
+Buildcraft Core	N/A	Code Library	N/A
+Buildcraft Factory		Tech	Small
+Buildcraft Robotics		Tech	Small
+Buildcraft Transport	3 - Industrial	Tech	Small
+Caliper		Code Library	N/A
+Car		Tech	Small
+CarryOn	N/A	World Modifier	Tiny
+CD4017BE_lib	N/A	Code Library	N/A
+Ceramics	1 - Bronze	Primitive Tech	Tiny
+Chameleon	N/A	Code Library	N/A
+Chargers	4 - Modern	Tech	Small
+ChickenASM	N/A	Code Library	N/A
+Chisel		Tools	Small
+Chisels and Bits		Tools	Small
+Client Tweaks	N/A	Cosmetic	Small
+Clumps	N/A	Cosmetic	Tiny
+Code Chicken Lib	N/A	Code Library	N/A
+Coloured Tool Tips	N/A	Cosmetic	Tiny
+Common Capabilities	N/A	Cosmetic	Tiny
+Compact Machines 3	5 - Futuristic	Tech	Small
+Content Tweaker	N/A	World Modifier	Large
+Controlling	N/A	Cosmetic	Tiny
+Cooking for Blockheads	4 - Modern	Primitive Tech	Small
+Craft Studio	N/A	Cosmetic	Tiny
+CTM	N/A	Cosmetic	Tiny
+Cucumber	N/A	Code Library	N/A
+Custom Main Menu	N/A	Cosmetic	Small
+Cyclic	2 - Medieval	Tech	Small
+Cyclops Core	N/A	Code Library	N/A
+Dark Utils	3 - Industrial	Tech	Small
+Death Compass	0 - Tutorial	World Modifier	Tiny
+Default Options	N/A	Cosmetic	Tiny
+Despawning Spawners	N/A	World Modifier	Tiny
+Dimensional Control	N/A	World Modifier	Medium
+Dimension Stages	N/A	World Modifier	Small
+Dung Pipe	1 - Bronze Age	Primitive Tech	Tiny
+Elevator Mod		Tech	Tiny
+Ember Root Zoo	0 - Tutorial	World Modifier	Small
+Enchantment Descriptions	N/A	Info	Tiny
+Ender Storage		Tech	Tiny
+Ender Utilities		Tech	Small
+Environmental Tech	5 - Futuristic	Tech	Small
+Extended Crafting	3 - Industrial	Tech	Small
+Extra Planets	4 - Modern	Tech	Large
+Fancy Block Particles	N/A	Cosmetic	Tiny
+Farming for Blockheads	2 - Medieval	Primitive Tech	Tiny
+Farseek	N/A	Code Library	N/A
+Fast Workbench	N/A	Cosmetic	Tiny
+Fat Cat	3 - Industrial	World Modifier	Tiny
+Ferdinand's Flowers	0 - Tutorial	World Modifier	Small
+Foamfix	N/A	Cosmetic	Tiny
+Forgelin	N/A	Code Library	N/A
+Forge Multi Part	N/A	Cosmetic	Tiny
+Galacticraft Core	4 - Modern	Tech	Large
+Galacticraft	4 - Modern	Tech	Large
+Galacticraft Tweaker	4 - Modern	Tech	Small
+Game Stages	N/A	World Modifier	Large
+Generators	4 - Modern	Tech	Small
+Geolosys	1 - Bronze	World Modifier	Large
+Gobble Core	N/A	Code Library	N/A
+Guide	N/A	Cosmetic	Tiny
+Harvest	N/A	World Modifier	Tiny
+Horse Power	0 - Stone	Primitive Tech	Small
+Hunting Dimension	1 - Bronze	World Modifier	Small
+HWYLA	1 - Bronze	Info	Large
+Immersive Craft	0 - Tutorial	Primitive Tech	Small
+Immersive Engineering	4 - Industrial	Tech	Medium
+Immersive Engineering Core	N/A	Code Library	N/A
+Immersive Petroleum	4 - Industrial	Tech	Small
+Immersive Tech	4 - Industrial	Tech	Small
+Improved Backpacks		Primitive Tech	Tiny
+Incontrol	N/A	World Modifier	Small
+Inductive Logistics			
+Industrial Foregoing		Tech	Small
+InfoAccessories			
+IntegratedDynamics			
+InventoryTweaks			
+Iron Backpacks			
+Iron Chest			
+Iron Jetpacks			
+Item Stages	N/A	World Modifier	Large
+IvToolkit	N/A	Code Library	N/A
+JEI	N/A	Info	Large
+Journeymap			
+JourneyMapStages			
+Just A Raft Mod			
+JustAFewFish	0 - Tutorial	World Modifier	Small
+Justthetips			
+KleeSlabs			
+LootTableTweaker			
+MagmaMonsters			
+Mantle			
+mcjtylib			
+Mekanism			
+Mercurius			
+MicdoodleCore			
+MJRLegendsLib			
+mobends			
+MobGrindingUtils			
+MobStages			
+modtweaker			
+modularmachinery			
+modular			
+Morpheus			
+MouseTweaks			
+MoVillages			
+mpbasic			
+MPUtils			
+MTLib			
+multiblockstages			
+MundaneRedstone			
+mysticalagradditions			
+mysticalagriculture			
+natura			
+Neat			
+NetherEx			
+noRecipeBook			
+NotEnoughItems			
+NoWorldgen5You			
+Nutrition			
+OceanFloor			
+oeintegration			
+OreExcavation			
+OreStages			
+Overloaded			
+pickletweaks			
+Placebo			
+PlayerAPI			
+playerskin			
+Pneumaticraft			
+PowerAdapters			
+Prestige			
+PrimalChests			
+PrimalCore			
+PrimalTech			
+ProgressionTweaks			
+prospectors			
+QuantumStorage			
+Quark	N/A	World Modifier	Small
+QuickLeafDecay			
+rangedpumps			
+RealisticItemDrops			
+RebornCore			
+RebornStorage			
+RecipeStages			
+RecurrentComplex			
+RedstoneFlux			
+refinedstorage			
+refinedstorageaddons			
+ResourceLoader			
+rftools			
+rftoolsctrl			
+roadrunner			
+rustic			
+Scannable			
+SevTweaksNPC			
+simpleautorun			
+simplegenerators			
+SimpleStorageNetwork			
+SimplyArrows			
+SmoothFont			
+SpartanShields			
+spatialservermod			
+StevesCarts			
+stg			
+StorageDrawers			
+Streams			
+StuffASockInIt			
+supersoundmuffler			
+TallGates			
+TConstruct			
+tesla			
+The Beneath			
+TheBetweenlands			
+TheBetweenlands			
+TheBetweenlands			
+ThirstyBottles			
+TinkersComplement			
+TinkerStages			
+TinkerToolLeveling			
+TipTheScales			
+Toast Control			
+togetherforever			
+TombManyGraves			
+Totemic			
+tothebatpoles			
+Translocators			
+Traverse			
+Triumph			
+trumpetskeleton			
+Tumbleweed			
+twilightforest			
+Uppers			
+valkyrielib			
+ViesCraft			
+VillagerTrades			
+Waddles			
+WailaStages			
+WanionLib			
+WaterControlExtreme			
+WaterStrainer			
+Wawla			
+weirdinggadget			
+WildCrops			
+Wither Skeleton Tweaks			
+Wopper			
+xnet			
+YNot			
+yoyos	
