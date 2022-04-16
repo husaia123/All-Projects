@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Order
+comment0.text=\n\n\ @author\ Anwarul\ Patwary\ \n\ @version\ 1.00,\ 01\ April\ 2022\n
+comment1.params=fileName\ order_id
+comment1.target=Order(java.lang.String,\ java.lang.String)
+comment1.text=\n\ 1)\ Constructor\ for\ objects\ of\ class\ Order\n\ 2)\ Initialise\ instance\ variables\n\ 3)\ Provide\ the\ input\ file\ name\ and\ first\ letter\ of\ your\ first\ name\ and\ last\ as\ an\ order\ ID\n\ e.g\ ("input.txt"\ "CP")\ CP\ for\ Collin\ Peter\n\ 4)\ Get\ the\ list\ of\ lines\ from\ fileReader\ class.\ Create\ anonymous\ Product\ type\ of\ objects,\ then\ add\ them\ into\ product_list.\ \n
+comment2.params=
+comment2.target=java.lang.String\ generateInvoice()
+comment2.text=\n\ Generate\ invoice\ ID\ using\ OrderID\ and\ random\ generated\ value.\ String\ concatenation\ is\ applicable\ here.\ \n\ if\ orderID\ \=\ "AN",\ and\ random\ value\ is\ 18.\ \n\ example\ output\:\ AN18\n
+comment3.params=prod_id\ unit
+comment3.target=double\ placeOrder(java.lang.String,\ int)
+comment3.text=\n\ 1)\ This\ method\ must\ communicate\ with\ Product\ class\n\ 2)\ The\ method\ should\ be\ able\ to\ place\ the\ order\ using\ product\ id\ and\ unit.\ It\ will\ take\ one\ product\ item\ at\ a\ time.\ \n\ 3)\ Calculate\ the\ total\ payable\ amount\ by\ the\ customer\n\ 4)\ To\ place\ multiple\ orders\ method\ should\ be\ able\ to\ get\ called\ multiple\ times.\ The\ total\ price\ and\ total\ discount\ will\ be\ accumulated\ to\ the\ field\ variable\ total_price\ total_discount\ respectively.\n\ 5)\ Return\ the\ accumulated\ total\ price\ from\ this\ method\n\ @param\ e.g\ prod_id\ \=\ "P10982"\ and\ unit\ \=\ 2\n\ 6)\ Return\ the\ value\ with\ two\ decimal\ places.\ For\ Example\:\ from\ 19.887\ to\ 19.89\n
+comment4.params=
+comment4.target=double\ getTotalPrice()
+comment4.text=\n\ 1)\ This\ method\ must\ communicate\ with\ Product\ class\n\ 2)\ Return\ the\ accumulated\ total\ price\ after\ placing\ the\ order.\ \n\ 3)\ Return\ the\ value\ with\ two\ decimal\ places.\ For\ Example\:\ from\ 19.887\ to\ 19.89\n
+comment5.params=
+comment5.target=double\ getTotalDiscount()
+comment5.text=\n\ 1)\ This\ method\ must\ communicate\ with\ Product\ class\n\ 2)\ Get\ the\ accumulated\ total\ amount\ of\ discount\ that\ has\ been\ applied\ after\ placing\ the\ order.\n\ 3)\ Return\ the\ value\ with\ two\ decimal\ places.\ For\ Example\:\ from\ 1.113\ to\ 1.11\n
+comment6.params=
+comment6.target=int\ getTotalItem()
+comment6.text=\n\ Return\ total\ number\ of\ items\ ordered\ by\ a\ customer\n
+comment7.params=
+comment7.target=void\ printOrder()
+comment7.text=\n\ print\ orders\ in\ the\ follwing\ format.\ \n\ *******Order\ Details*******\n\ Invoice\ Number\:\ AN43\n\ Total\ items\ \:2\n\ Amount\ Payable\:\ 36.7\n\ Discount\ Applied\:\ 2.4\n
+numComments=8

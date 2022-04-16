@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Product
+comment0.text=\n\ @author\ Anwarul\ Patwary\ \n\ @version\ 1.00\ 01\ April\ 2022\n
+comment1.params=product_details
+comment1.target=Product(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Product\n\ Initialise\ instance\ variables\n
+comment2.params=
+comment2.target=java.lang.String\ getProductID()
+comment2.text=\n\ Return\ the\ product\ ID\n
+comment3.params=
+comment3.target=double\ getPrice()
+comment3.text=\n\ Return\ the\ product\ price\n
+comment4.params=
+comment4.target=double\ getDiscount()
+comment4.text=\n\ Return\ the\ discount\ of\ a\ product\ \n
+comment5.params=
+comment5.target=java.lang.String\ getCategory()
+comment5.text=\n\ Return\ the\ category\ of\ a\ product\ \n
+comment6.params=
+comment6.target=java.lang.String\ getStoreID()
+comment6.text=\n\ Return\ the\ store\ ID\ of\ a\ product\ \n
+numComments=7

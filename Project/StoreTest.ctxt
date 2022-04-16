@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=StoreTest
+comment0.text=\n\ The\ test\ class\ StoreTest.\n\n\ @author\ Anwarul\ Patwary\ \n\ @version\ 1.00\ 01\ April\ 2022\n
+comment1.params=
+comment1.target=StoreTest()
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\n\ Sets\ up\ the\ test\ fixture.\n\n\ Called\ before\ every\ test\ case\ method.\n
+comment3.params=
+comment3.target=void\ testexpensiveItem()
+comment4.params=
+comment4.target=void\ testexpensiveItemStore()
+comment5.params=
+comment5.target=void\ testfindProduct()
+comment6.params=
+comment6.target=void\ testcheckprice()
+comment7.params=
+comment7.target=void\ testgetproductbyStoreID()
+comment8.params=
+comment8.target=void\ testaverageCost()
+numComments=9

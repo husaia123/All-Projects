@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Store
+comment0.text=\n\ @author\ Anwarul\ Patwary\ \n\ @version\ 1.00,\ 01\ April\ 2022\n
+comment1.params=fileName
+comment1.target=Store(java.lang.String)
+comment1.text=\n\ 1)\ Constructor\ for\ objects\ of\ class\ Store\n\ 2)\ Initialise\ instance\ variables\n\ 2)\ Get\ the\ list\ of\ line\ from\ fileReader\ class.\ Create\ anonymous\ Product\ type\ of\ objects,\ then\ add\ them\ into\ listOfproduct.\n
+comment2.params=prod_category
+comment2.target=java.lang.String\ expensiveItem(java.lang.String)
+comment2.text=\n\ 1)Find\ the\ most\ expensive\ product\ of\ a\ category.\n\ @param\ e.g.\ "veg"\n\ 2)Return\ the\ product\ id\ of\ the\ product.\n
+comment3.params=prod_category\ store_id
+comment3.target=java.lang.String\ expensiveItemStore(java.lang.String,\ java.lang.String)
+comment3.text=\n\ 1)\ Find\ the\ most\ expensive\ product\ of\ a\ category\ from\ a\ particular\ store.\n\ 2)\ Return\ the\ product\ id\ and\ price\ of\ a\ product.\ Return\ the\ value\ in\ a\ single\ line\ as\ a\ string\ using\ string\ concatenation.\ \n\ Example\ output\:\ P10982,21.0\n
+comment4.params=min\ max
+comment4.target=java.lang.String\ findProduct(int,\ int)
+comment4.text=\n\ 1)\ Find\ the\ list\ of\ product\ and\ price\ which\ price\ is\ between\ "min"\ and\ "max".\ \n\ @param\ e.g\ min\ \=\ 2,\ and\ max\ \=10.\ \n\ 2)\ Return\ the\ list\ in\ an\ accumulated\ string\ using\ string\ concatenation.\n\ 3)\ The\ list\ should\ be\ a\ String\ type,\ each\ product\ details\ seperate\ by\ a\ new\ line\ using\ "\\n".\ \ \n\ 4)\ Throw\ an\ exception\ for\ a\ negative\ argument\ and\ "min"\ must\ not\ be\ greater\ than\ "max"\ value.\n\ \n\ An\ example\ of\ returning\ list\:\n\ P10082,4.71\n\ P10032,3.54\n
+comment5.params=prod_id
+comment5.target=double\ checkPrice(java.lang.String)
+comment5.text=\n\ Use\ the\ prod_id\ to\ check\ the\ price\ of\ that\ product.\ Throw\ an\ exception\ if\ no\ product\ matches\ the\ product\ id.\n\ @param\ e.g\ "P10982"\n
+comment6.params=store_id
+comment6.target=java.util.ArrayList\ getproductbyStoreID(java.lang.String)
+comment6.text=\n\ 1)\ Find\ the\ list\ of\ products\ in\ a\ store\ using\ a\ store\ ID.\ Return\ the\ product\ id\ and\ price\ using\ an\ ArrayList\ of\ String\ type\n\ 2)\ Throw\ an\ exception\ if\ no\ store\ matches\ the\ store\ id.\n\ @param\ e.g\ store_id\ \=\ "S0198"\n\ Example\ output\:\ \n\ P10082,4.71\n\ P10032,3.54\n
+comment7.params=prod_category
+comment7.target=double\ averageCost(java.lang.String)
+comment7.text=\n\ 1)\ Get\ the\ average\ cost\ of\ an\ item\ in\ an\ item\ category.\n\ @param\ e.g\ "veg"\n\ 2)\ Throw\ an\ exception\ in\ calculating\ the\ average\ that\ a\ value\ can\ not\ be\ divided\ by\ zero.\n\ 3)\ Return\ the\ value\ with\ two\ decimal\ places.\ For\ Example\:\ from\ 19.887\ to\ 19.89\n
+numComments=8
